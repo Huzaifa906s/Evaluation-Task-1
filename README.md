@@ -45,5 +45,6 @@ Contributions are welcome! Please submit a pull request or open an issue for any
 
 ## Author
 Muhammad Huzaifa
+
 **Email**: huzaifashamayl90@gmail.com
 
