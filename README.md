@@ -43,6 +43,7 @@ Absolute Path: /home/myhome/myfolder2/mydocument.txt
 ## Contributing
 Contributions are welcome! Please submit a pull request or open an issue for any improvements or bug fixes.
 
-## License
-This project is licensed under the MIT License.
+## Author
+Muhammad Huzaifa
+**Email**: huzaifashamayl90@gmail.com
 
